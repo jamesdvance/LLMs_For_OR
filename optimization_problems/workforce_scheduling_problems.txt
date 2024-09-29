@@ -1,0 +1,6 @@
+Pyomo
+https://towardsdatascience.com/modeling-and-optimization-of-a-weekly-workforce-with-python-and-pyomo-29484ba065bb
+Pulp
+https://towardsdatascience.com/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4
+Google OR 
+https://developers.google.com/optimization/scheduling/employee_scheduling
